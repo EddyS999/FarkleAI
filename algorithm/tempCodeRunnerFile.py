@@ -1,0 +1,1 @@
+self.epsilon_min = 0.1 

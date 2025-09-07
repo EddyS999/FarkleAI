@@ -37,7 +37,7 @@ FarkleAI-master/
 
 1. **Cloner le repository**
    ```bash
-   git clone https://github.com/votre-username/FarkleAI.git
+   git clone https://github.com/eddys999/FarkleAI.git
    cd FarkleAI
    ```
 

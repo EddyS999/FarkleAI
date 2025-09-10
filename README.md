@@ -143,10 +143,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-## 👨‍💻 Auteur
-
-Développé avec ❤️ pour l'exploration de l'intelligence artificielle et des jeux de stratégie.
-
 ---
 
 *Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub !*
